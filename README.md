@@ -29,7 +29,12 @@
 * ReactJS
   * [Styled Component]() - Biblioteca CSS in JS
 * TypeScript
-* 
+
+
+### Tools para criar API Fake
+ * [MirageJS]() - 
+
+
 
 ## ⚙️ Rodando o Projeto
 ```bash

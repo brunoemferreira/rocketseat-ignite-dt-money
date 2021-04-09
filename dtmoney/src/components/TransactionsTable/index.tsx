@@ -25,7 +25,6 @@ export default function TransactionsTable() {
             <td>Desenvolvimento</td>
             <td>01/01/2021</td>
           </tr>
-
         </tbody>
       </table>
     </Container>
