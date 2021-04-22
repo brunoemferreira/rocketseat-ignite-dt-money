@@ -26,9 +26,11 @@
 
 ## 🧰 Tecnologias e Bibliotecas
 
-* ReactJS
-  * [Styled Component]() - Biblioteca CSS in JS
-* TypeScript
+* [ReactJS](https://pt-br.reactjs.org/tutorial/tutorial.html)
+  * [Styled Component](https://www.npmjs.com/package/styled-components) - Biblioteca CSS in JS
+  * [Axios](https://www.npmjs.com/package/axios)
+  * [React Modal](https://www.npmjs.com/package/react-modal)
+* [TypeScript](https://www.typescriptlang.org/)
 
 
 ### Tools para criar API Fake
