@@ -30,6 +30,7 @@
   * [Styled Component](https://www.npmjs.com/package/styled-components) - Biblioteca CSS in JS
   * [Axios](https://www.npmjs.com/package/axios)
   * [React Modal](https://www.npmjs.com/package/react-modal)
+  * [Polished](https://www.npmjs.com/package/polished)
 * [TypeScript](https://www.typescriptlang.org/)
 
 
