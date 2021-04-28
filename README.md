@@ -33,6 +33,7 @@ DT Money é um controle de contas financeiro pessoal que cadastra contas de entr
 <div align="center">
   <img src="./Assets/tela3.png">
 </div>
+
 ## 🧰 Tecnologias e Bibliotecas
 
 * [ReactJS](https://pt-br.reactjs.org/tutorial/tutorial.html)
